@@ -84,4 +84,4 @@ Proyecto...:
 > Este proyecto es libre de derechos de autor, se es posible hacer cambios para el gusto personal, pero agradeceria que se me hiciera mención de participación.
 
 ## Etiquetas
-> {'Java'} {'Arduino'} {'Viborita'} {'Game 2D'} {'Hardware'} {'PanamaHitek'} {'Free Copyright'}
+> {'Java'} {'Arduino'} {'Arkanoid'} {'Game 2D'} {'Hardware'} {'PanamaHitek'} {'Free Copyright'}
